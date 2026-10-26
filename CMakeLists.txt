@@ -22,10 +22,10 @@ juce_add_plugin(TSMANIA_TUNE
 )
 
 target_sources(TSMANIA_TUNE PRIVATE
-    Source/PluginProcessor.cpp
-    Source/PluginProcessor.h
-    Source/PluginEditor.cpp
-    Source/PluginEditor.h
+    PluginProcessor.cpp
+    PluginProcessor.h
+    PluginEditor.cpp
+    PluginEditor.h
 )
 
 target_compile_features(TSMANIA_TUNE PRIVATE cxx_std_17)
