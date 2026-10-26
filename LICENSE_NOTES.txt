@@ -1,0 +1,6 @@
+TSMANIA TUNE — notas del proyecto
+Código de este prototipo preparado como base de desarrollo.
+JUCE se obtiene del repositorio oficial y mantiene sus propios términos/licencia.
+No incluye código ni recursos de Antares. No se afirma compatibilidad comercial ni
+equivalencia de calidad con Auto-Tune Pro. Revisa los términos de JUCE y de cualquier
+dependencia antes de distribuir un binario.
